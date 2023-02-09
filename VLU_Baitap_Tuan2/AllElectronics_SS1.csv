@@ -1,0 +1,15 @@
+ID,age,income ,student,class_buys_computer
+1,youth,high,no,no
+2,youth,high,no,no
+3,middle_aged,high,no,yes
+4,senior,medium,no,yes
+5,senior,low,yes,yes
+6,senior,low,yes,no
+7,middle_aged,low,yes,yes
+8,youth,medium,no,no
+9,youth,low,yes,yes
+10,senior,medium,yes,yes
+11,youth,medium,yes,yes
+12,middle_aged,medium,no,yes
+13,middle_aged,high,yes,yes
+14,senior,medium,no,no
