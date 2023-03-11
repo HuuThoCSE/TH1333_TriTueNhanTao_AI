@@ -1,0 +1,10 @@
+day,outlook,humidity,wind,travel
+D1,Sunny,High,Weak,No
+D2,Sunny,High,Strong,No
+D3,Overcast,High,Weak,Yes
+D4,Rain,High,Weak,Yes
+D5,Rain,Normal,Weak,Yes
+D6,Rain,Normal,Strong,No
+D7,Overcast,Normal,Strong,Yes
+D8,Sunny,High,Weak,No
+D9,Sunny,Normal,Weak,Yes

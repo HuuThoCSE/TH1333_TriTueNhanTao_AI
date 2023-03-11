@@ -1,0 +1,16 @@
+ID,Picture quality,Sound quality,Age,Class
+1,poor,good,2,faulty
+2,poor,excellent,1,faulty
+3,good,poor,2,faulty
+4,good,poor,2,faulty
+5,good,excellent,1,not faulty
+6,good,good,1,not faulty
+7,good,good,2,faulty
+8,excellent,good,1,faulty
+9,excellent,excellent,1,not faulty
+10,excellent,good,2,not faulty
+11,good,good,2,faulty
+12,good,good,2,faulty
+13,good,good,1,not faulty
+14,excellent,excellent,1,not faulty
+15,excellent,good,1,???
